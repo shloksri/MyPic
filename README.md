@@ -1,4 +1,4 @@
-# CFP
+# Presentation details
 
 ### 1. Introduction: State Management in React _[1 min]_
 
